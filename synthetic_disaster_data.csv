@@ -1,0 +1,1001 @@
+Country,Disaster_Type,Severity,Evacuation_Capacity,Available_Shelters
+Palau,Drought,8,8160,6
+Romania,Storm,9,2188,6
+Netherlands Antilles,Earthquake,3,9476,4
+Faroe Islands,Drought,4,6620,9
+Heard Island and McDonald Islands,Storm,4,1970,10
+Estonia,Storm,7,3469,10
+Central African Republic,Storm,1,8111,8
+Pitcairn Islands,Storm,4,8255,5
+Norfolk Island,Earthquake,7,2758,8
+Kazakhstan,Storm,4,5049,2
+Niger,Earthquake,10,1111,4
+Kuwait,Flood,7,7992,6
+Turkmenistan,Drought,4,2779,9
+Thailand,Storm,3,5690,10
+Wallis and Futuna,Flood,3,5914,6
+Saint Lucia,Drought,3,2981,9
+Poland,Drought,7,3538,8
+Saint Vincent and the Grenadines,Drought,5,2827,4
+Zambia,Flood,7,9501,6
+Cape Verde,Earthquake,1,4441,10
+Fiji,Flood,5,6479,7
+Aruba,Storm,10,6674,6
+Serbia,Storm,3,7684,4
+Madagascar,Flood,2,9319,3
+Chad,Drought,7,9363,4
+Guam,Earthquake,2,5158,10
+Iceland,Earthquake,8,7793,2
+Turkmenistan,Earthquake,6,2243,7
+Romania,Earthquake,7,5835,10
+Pitcairn Islands,Drought,2,3912,4
+Zimbabwe,Earthquake,7,7175,8
+Lao People's Democratic Republic,Drought,7,9086,8
+Svalbard & Jan Mayen Islands,Storm,7,4454,6
+Tunisia,Drought,7,6945,3
+Jersey,Storm,3,8189,2
+Benin,Earthquake,6,4901,8
+Heard Island and McDonald Islands,Flood,3,4881,6
+Burkina Faso,Storm,3,5971,1
+Nicaragua,Storm,4,8831,4
+Italy,Drought,3,8421,8
+Netherlands Antilles,Flood,10,3792,2
+Korea,Storm,4,6940,1
+Korea,Drought,9,1279,9
+Argentina,Earthquake,6,4912,2
+New Zealand,Storm,5,4309,8
+Palau,Earthquake,6,1815,8
+Moldova,Storm,2,7081,7
+Guatemala,Storm,6,3654,1
+Mongolia,Flood,9,1810,6
+Gabon,Storm,3,8934,6
+Antigua and Barbuda,Drought,10,1512,7
+Greece,Earthquake,10,3950,6
+Brazil,Earthquake,6,5829,4
+Kenya,Earthquake,7,4139,4
+Argentina,Storm,5,5383,9
+Togo,Drought,1,3845,4
+Rwanda,Storm,9,7160,10
+Tanzania,Flood,6,5093,4
+Afghanistan,Drought,6,5329,4
+Cayman Islands,Storm,6,5363,7
+Barbados,Storm,2,4409,5
+Libyan Arab Jamahiriya,Flood,1,5989,3
+Myanmar,Storm,1,7467,6
+Dominica,Flood,1,1511,2
+Chile,Storm,1,3679,9
+Bulgaria,Drought,1,5366,10
+Svalbard & Jan Mayen Islands,Flood,8,1270,9
+Macao,Drought,7,1447,6
+Saint Barthelemy,Drought,4,5469,9
+Gabon,Drought,6,1043,4
+Gambia,Earthquake,5,8526,1
+Japan,Earthquake,4,6012,7
+Haiti,Flood,5,3583,4
+Israel,Drought,6,6410,2
+Tunisia,Drought,2,4360,8
+Saudi Arabia,Earthquake,4,3881,9
+New Caledonia,Storm,7,3837,4
+Italy,Drought,8,3628,8
+Namibia,Earthquake,5,8981,7
+Saint Vincent and the Grenadines,Flood,1,2000,8
+Czech Republic,Flood,1,5888,10
+Moldova,Storm,8,5020,7
+Kiribati,Drought,4,4720,10
+Papua New Guinea,Earthquake,4,6345,7
+Antarctica (the territory South of 60 deg S),Earthquake,1,9442,8
+New Caledonia,Storm,1,6898,9
+Saint Helena,Earthquake,10,3622,6
+Uruguay,Earthquake,5,2565,7
+Ireland,Storm,5,1139,4
+Thailand,Flood,6,9519,8
+Israel,Storm,9,4642,3
+Sudan,Storm,9,9149,8
+Mali,Flood,1,7471,9
+Italy,Flood,2,9857,3
+Iran,Storm,6,1492,4
+Cote d'Ivoire,Drought,10,1822,2
+Serbia,Flood,10,6238,9
+Guernsey,Storm,7,1339,2
+Madagascar,Earthquake,2,2401,1
+Holy See (Vatican City State),Drought,5,1490,1
+Israel,Earthquake,1,8299,6
+Malawi,Flood,5,1884,2
+Bhutan,Drought,8,8124,6
+Morocco,Storm,8,5081,1
+Niger,Drought,8,1851,4
+Saint Barthelemy,Flood,7,3297,9
+Taiwan,Drought,3,3597,1
+Ethiopia,Storm,7,7588,9
+Congo,Storm,1,1876,10
+Saint Helena,Drought,3,4004,5
+Malawi,Storm,8,8162,7
+Bhutan,Drought,8,5450,10
+Bosnia and Herzegovina,Drought,3,2512,1
+Solomon Islands,Drought,7,8335,2
+Philippines,Drought,2,8713,8
+Turks and Caicos Islands,Flood,4,9033,3
+Taiwan,Storm,8,7345,7
+Trinidad and Tobago,Drought,1,7231,4
+Japan,Storm,6,6444,5
+Croatia,Flood,5,9033,5
+Yemen,Storm,6,2394,6
+Slovenia,Storm,6,5863,1
+Vietnam,Earthquake,4,3109,1
+Eritrea,Earthquake,9,8156,9
+British Indian Ocean Territory (Chagos Archipelago),Earthquake,1,8355,7
+French Guiana,Drought,2,4575,7
+Marshall Islands,Earthquake,6,5893,5
+Norfolk Island,Earthquake,5,2263,9
+Brunei Darussalam,Earthquake,2,5124,10
+Zambia,Storm,6,8320,1
+Maldives,Drought,1,5562,8
+Gibraltar,Storm,7,4334,6
+British Virgin Islands,Earthquake,9,2301,7
+Sierra Leone,Flood,9,4703,4
+Tuvalu,Drought,7,3970,10
+Jamaica,Earthquake,4,9153,1
+Turkmenistan,Flood,5,7949,5
+Honduras,Drought,5,2400,3
+Costa Rica,Flood,4,8627,2
+Tanzania,Drought,7,3699,8
+Czech Republic,Earthquake,6,8478,2
+Eritrea,Storm,10,8930,1
+United States of America,Flood,9,9061,3
+Barbados,Flood,2,8758,8
+Saint Kitts and Nevis,Earthquake,4,1110,9
+Barbados,Drought,9,3668,9
+Netherlands Antilles,Storm,2,2054,1
+Angola,Earthquake,6,4938,7
+Malta,Earthquake,9,1128,6
+Somalia,Storm,1,2885,5
+American Samoa,Drought,4,2260,8
+United States of America,Flood,8,4967,5
+Trinidad and Tobago,Flood,2,3302,1
+Sweden,Storm,8,4072,7
+Luxembourg,Flood,9,3461,5
+Kuwait,Storm,1,2627,7
+Cyprus,Storm,8,2010,5
+Saint Barthelemy,Storm,6,8155,1
+Suriname,Flood,10,2211,3
+Seychelles,Earthquake,10,6854,9
+El Salvador,Flood,7,8206,8
+Chile,Flood,9,7870,9
+Brazil,Storm,8,2773,7
+Bolivia,Flood,6,8697,5
+Tunisia,Storm,10,2260,5
+Gambia,Storm,2,3674,10
+Armenia,Flood,1,9459,9
+Antarctica (the territory South of 60 deg S),Flood,1,2929,5
+Qatar,Storm,6,1947,6
+Burundi,Drought,7,9964,4
+Costa Rica,Earthquake,4,4500,5
+Norway,Flood,7,7344,3
+Kenya,Storm,2,1492,3
+Anguilla,Flood,8,1505,8
+Northern Mariana Islands,Earthquake,8,2253,10
+Bulgaria,Flood,1,1362,6
+Nigeria,Earthquake,8,3205,3
+Guernsey,Drought,7,7801,2
+Belarus,Flood,1,1395,5
+Algeria,Flood,5,4377,5
+Ghana,Storm,3,5440,2
+Taiwan,Drought,8,2648,9
+United States of America,Storm,6,4897,10
+Belgium,Flood,3,4506,3
+Belize,Storm,9,1131,6
+Trinidad and Tobago,Drought,6,9054,9
+Western Sahara,Drought,7,8140,3
+Egypt,Flood,7,7076,10
+Dominican Republic,Drought,5,5253,5
+Russian Federation,Flood,2,3997,10
+Nauru,Storm,6,7347,7
+Hong Kong,Flood,5,8543,2
+Finland,Flood,6,6199,3
+Puerto Rico,Storm,6,5698,7
+Jamaica,Drought,7,3127,3
+Kenya,Drought,4,8393,1
+Mauritius,Drought,9,6131,1
+Syrian Arab Republic,Earthquake,2,8671,7
+Mexico,Flood,5,1926,10
+United States Minor Outlying Islands,Drought,3,2604,7
+Kenya,Earthquake,10,9507,3
+Azerbaijan,Flood,8,9736,4
+Tajikistan,Storm,5,4877,3
+Niger,Flood,2,8339,1
+Kenya,Flood,9,9829,10
+Bhutan,Storm,3,7429,7
+Liberia,Earthquake,4,1250,2
+Thailand,Drought,4,1795,5
+Reunion,Drought,5,9318,5
+Netherlands,Drought,2,7216,3
+Niger,Storm,7,6195,6
+Anguilla,Storm,3,4278,3
+Azerbaijan,Drought,6,4530,4
+Poland,Flood,5,2782,3
+Holy See (Vatican City State),Flood,10,9025,4
+Gambia,Drought,2,7176,9
+Australia,Drought,6,8208,3
+Bosnia and Herzegovina,Storm,10,7430,5
+Estonia,Drought,5,2686,8
+Fiji,Earthquake,6,4659,4
+Tajikistan,Flood,8,5564,4
+Solomon Islands,Drought,5,4012,4
+Ireland,Drought,5,5868,7
+Estonia,Storm,3,5980,3
+Luxembourg,Earthquake,3,6823,6
+Senegal,Storm,2,1603,9
+Andorra,Drought,4,8379,8
+Russian Federation,Flood,1,9552,4
+Guam,Earthquake,2,7234,4
+Japan,Earthquake,10,9777,8
+Russian Federation,Earthquake,2,7066,3
+Azerbaijan,Storm,7,4934,3
+Iceland,Drought,10,8992,1
+Liechtenstein,Drought,9,9393,8
+Palau,Drought,7,3096,1
+Sao Tome and Principe,Earthquake,4,4015,10
+Burkina Faso,Earthquake,1,7773,6
+Brunei Darussalam,Flood,8,4707,5
+Rwanda,Earthquake,4,8879,9
+Pitcairn Islands,Drought,3,3366,7
+Comoros,Drought,6,3341,5
+Cape Verde,Earthquake,10,4077,2
+Mozambique,Flood,8,8777,7
+French Polynesia,Earthquake,4,1055,6
+Belize,Earthquake,5,8644,9
+Zimbabwe,Storm,8,3086,8
+Iran,Earthquake,7,3312,5
+Paraguay,Drought,8,6442,3
+United States Virgin Islands,Drought,4,6182,3
+Luxembourg,Drought,7,6309,10
+British Indian Ocean Territory (Chagos Archipelago),Storm,10,7559,1
+American Samoa,Storm,4,4466,2
+Gambia,Earthquake,8,5116,5
+Kuwait,Flood,2,6902,10
+Isle of Man,Earthquake,4,4704,5
+Taiwan,Storm,8,1052,4
+Nepal,Earthquake,9,9647,1
+Uruguay,Storm,9,2925,6
+Mayotte,Drought,5,4342,9
+Saint Kitts and Nevis,Drought,6,1750,9
+Qatar,Storm,4,1819,8
+Bhutan,Earthquake,7,8200,3
+Anguilla,Flood,10,9599,6
+Christmas Island,Drought,7,6881,2
+Montserrat,Flood,3,5870,6
+Timor-Leste,Storm,10,2099,3
+Sudan,Storm,4,3556,2
+Austria,Flood,6,6830,3
+Germany,Storm,8,6156,10
+Chad,Earthquake,10,6027,7
+Tanzania,Earthquake,1,9254,8
+Cook Islands,Earthquake,8,2477,5
+Zambia,Storm,2,1442,7
+Ecuador,Flood,3,5684,2
+United Kingdom,Drought,6,2025,6
+Belize,Drought,1,1717,8
+Jamaica,Earthquake,6,6096,6
+Belarus,Drought,9,4139,5
+Honduras,Storm,10,2897,9
+Saint Martin,Flood,9,7545,3
+Grenada,Storm,3,1026,10
+Chile,Storm,6,5621,7
+Honduras,Flood,4,9760,2
+Seychelles,Drought,2,9250,9
+Vietnam,Flood,8,7364,8
+Lithuania,Storm,4,9583,10
+India,Flood,9,7417,2
+Chile,Flood,6,7852,2
+Zambia,Earthquake,6,6675,2
+Lebanon,Earthquake,2,7269,10
+Burundi,Storm,10,2372,8
+Nigeria,Storm,8,4577,10
+Zambia,Drought,3,9008,9
+Ghana,Storm,2,4770,10
+French Polynesia,Drought,1,8963,4
+Trinidad and Tobago,Drought,2,1903,6
+Zambia,Flood,1,3741,2
+British Indian Ocean Territory (Chagos Archipelago),Flood,2,4707,2
+Ukraine,Storm,2,5811,1
+Australia,Earthquake,7,2117,8
+Panama,Earthquake,9,5529,7
+Rwanda,Drought,9,5573,3
+Bulgaria,Storm,4,3935,7
+Sao Tome and Principe,Drought,3,7584,5
+France,Flood,1,9125,2
+Bosnia and Herzegovina,Storm,8,9343,1
+Belarus,Storm,5,3745,5
+Korea,Earthquake,7,6769,5
+Honduras,Storm,1,3688,8
+China,Earthquake,6,1403,1
+Mozambique,Storm,4,4122,1
+Belarus,Flood,4,4486,8
+Belarus,Drought,10,4621,10
+South Africa,Earthquake,5,7072,1
+Netherlands,Earthquake,10,2918,7
+Bermuda,Storm,1,5073,10
+Guatemala,Storm,7,9144,5
+Lithuania,Storm,6,6594,7
+Wallis and Futuna,Earthquake,4,5541,8
+India,Earthquake,1,1966,7
+Namibia,Earthquake,1,4275,7
+Denmark,Storm,2,4103,7
+Vietnam,Storm,3,5767,1
+Tanzania,Flood,1,5180,8
+Peru,Flood,3,5186,6
+Botswana,Flood,3,1757,3
+Jamaica,Drought,10,3226,3
+Senegal,Storm,7,2610,5
+British Indian Ocean Territory (Chagos Archipelago),Storm,8,7724,1
+Kyrgyz Republic,Earthquake,9,5223,5
+Guinea-Bissau,Flood,10,1013,8
+Saint Vincent and the Grenadines,Storm,9,9678,4
+San Marino,Earthquake,3,4467,9
+South Africa,Storm,5,1359,7
+Benin,Storm,8,5427,7
+Faroe Islands,Earthquake,8,7128,6
+Guinea,Earthquake,6,6202,3
+Bermuda,Earthquake,8,3739,7
+Czech Republic,Drought,3,7306,7
+Sweden,Flood,5,7074,6
+Ireland,Flood,2,1080,1
+Palestinian Territory,Drought,2,1540,3
+Kuwait,Earthquake,2,9428,2
+Palau,Earthquake,8,4422,7
+Gambia,Drought,10,1101,2
+Oman,Storm,1,6819,5
+Somalia,Drought,10,9158,3
+Ukraine,Drought,1,6113,2
+Argentina,Storm,3,4346,6
+North Macedonia,Flood,2,7668,3
+Maldives,Earthquake,5,3945,2
+North Macedonia,Flood,7,5618,6
+Luxembourg,Earthquake,1,1784,3
+Western Sahara,Flood,7,3684,7
+Belgium,Drought,7,4846,7
+Cayman Islands,Flood,3,7656,3
+British Indian Ocean Territory (Chagos Archipelago),Drought,9,7151,1
+Bermuda,Earthquake,7,7211,5
+Togo,Earthquake,7,2851,6
+Paraguay,Earthquake,6,4832,8
+Belgium,Drought,3,7516,4
+Hungary,Storm,6,7564,7
+Sudan,Drought,1,4797,6
+Timor-Leste,Storm,4,2782,6
+Romania,Drought,10,4272,10
+Saint Barthelemy,Drought,10,4238,3
+Benin,Drought,8,2962,1
+Malaysia,Drought,1,4041,6
+Mozambique,Earthquake,5,8844,2
+Syrian Arab Republic,Storm,2,7212,4
+Central African Republic,Storm,4,9973,1
+Australia,Drought,6,1328,8
+Azerbaijan,Storm,8,7790,2
+Cuba,Flood,7,9802,10
+United States of America,Flood,3,2923,4
+Korea,Earthquake,8,8696,7
+Azerbaijan,Earthquake,4,3309,6
+Maldives,Earthquake,5,4624,7
+Bolivia,Flood,10,2717,10
+Thailand,Earthquake,8,9470,7
+Djibouti,Earthquake,1,3583,2
+Faroe Islands,Drought,1,9443,6
+Latvia,Earthquake,2,4962,5
+Australia,Flood,9,8915,8
+Spain,Earthquake,4,8110,7
+Falkland Islands (Malvinas),Earthquake,6,7534,4
+India,Drought,1,1344,3
+American Samoa,Drought,2,6137,4
+Monaco,Earthquake,2,4877,7
+South Africa,Earthquake,4,4530,6
+Azerbaijan,Flood,8,7769,8
+Cameroon,Storm,10,8172,8
+Equatorial Guinea,Storm,4,8775,7
+New Zealand,Earthquake,8,2663,7
+Malawi,Storm,1,7666,6
+San Marino,Storm,3,5893,9
+Pakistan,Storm,5,6993,6
+Armenia,Flood,5,2264,4
+Falkland Islands (Malvinas),Flood,7,2549,8
+Cayman Islands,Earthquake,1,5371,3
+Liberia,Flood,2,1041,8
+Afghanistan,Storm,8,8596,3
+Luxembourg,Flood,7,4576,10
+Australia,Drought,6,5005,6
+Cote d'Ivoire,Storm,6,1676,1
+Lithuania,Storm,8,9178,3
+Anguilla,Earthquake,4,1303,9
+Lebanon,Earthquake,7,3981,2
+Malta,Earthquake,9,7956,9
+Jersey,Flood,9,6701,3
+Argentina,Earthquake,3,9552,9
+Central African Republic,Earthquake,2,1494,7
+Israel,Earthquake,1,2802,9
+South Georgia and the South Sandwich Islands,Flood,9,4589,4
+India,Drought,8,8063,7
+Guyana,Storm,8,8087,5
+Suriname,Earthquake,1,8334,1
+Bangladesh,Drought,5,8152,7
+Nauru,Storm,9,7238,7
+South Georgia and the South Sandwich Islands,Earthquake,1,8632,4
+Saint Martin,Earthquake,5,8445,5
+British Indian Ocean Territory (Chagos Archipelago),Flood,6,6089,9
+Suriname,Drought,8,4127,7
+Costa Rica,Flood,3,2354,1
+Poland,Storm,5,1595,1
+Guinea-Bissau,Drought,10,5243,4
+Malta,Flood,8,3835,6
+Eritrea,Drought,6,3855,8
+French Polynesia,Flood,1,7055,1
+Togo,Drought,5,1609,10
+Northern Mariana Islands,Drought,10,1438,10
+Faroe Islands,Storm,5,7334,9
+Uganda,Storm,1,7348,1
+Somalia,Storm,3,1080,2
+Philippines,Drought,6,3558,10
+Denmark,Drought,6,5909,5
+Spain,Storm,4,7650,1
+Korea,Earthquake,1,5789,3
+Slovakia (Slovak Republic),Storm,1,1602,5
+Tokelau,Flood,2,6522,9
+Sri Lanka,Storm,10,4206,3
+Ghana,Drought,10,9824,3
+Mali,Storm,3,6250,8
+Bouvet Island (Bouvetoya),Drought,2,4226,7
+Czech Republic,Storm,1,7382,4
+Saudi Arabia,Storm,2,3779,3
+American Samoa,Earthquake,7,3622,7
+Ukraine,Flood,4,4129,6
+Djibouti,Earthquake,5,3341,5
+Sri Lanka,Drought,4,6037,4
+Cape Verde,Drought,7,4477,4
+Trinidad and Tobago,Storm,5,1107,10
+Belgium,Drought,3,9696,8
+Ireland,Storm,4,5933,5
+Ecuador,Drought,7,6113,5
+Russian Federation,Drought,4,6145,6
+Guyana,Earthquake,4,1268,10
+Northern Mariana Islands,Drought,9,3886,5
+France,Flood,2,9957,2
+Armenia,Flood,4,1073,2
+Uzbekistan,Flood,4,7728,8
+Austria,Drought,2,5570,10
+Bahamas,Drought,6,6264,1
+Papua New Guinea,Flood,4,2375,1
+Singapore,Drought,7,9030,6
+Cocos (Keeling) Islands,Flood,5,5862,8
+Seychelles,Storm,9,4301,1
+Ukraine,Flood,6,3342,6
+Cook Islands,Storm,8,2200,3
+Maldives,Storm,2,2724,1
+Falkland Islands (Malvinas),Drought,9,1518,10
+South Africa,Earthquake,3,1631,8
+Tuvalu,Earthquake,1,9705,6
+Hungary,Earthquake,1,2301,1
+Mayotte,Drought,5,1814,4
+Vietnam,Drought,3,4236,6
+Iran,Storm,2,2684,4
+Denmark,Storm,3,8399,3
+Ukraine,Earthquake,3,6666,3
+Anguilla,Storm,4,2950,1
+Ecuador,Drought,5,3788,9
+Zimbabwe,Storm,8,2609,4
+Gambia,Drought,6,6684,10
+Bolivia,Earthquake,2,1919,10
+Moldova,Flood,4,9106,10
+Faroe Islands,Flood,2,1653,7
+Eritrea,Drought,1,1504,5
+United Arab Emirates,Flood,2,1367,10
+South Africa,Earthquake,5,9969,4
+Spain,Storm,1,4227,5
+Barbados,Storm,3,1997,2
+Australia,Storm,2,6958,1
+Saint Barthelemy,Earthquake,4,5693,10
+Saudi Arabia,Flood,2,6123,2
+Uzbekistan,Earthquake,5,4818,2
+Wallis and Futuna,Flood,8,7222,8
+Ethiopia,Storm,6,5819,3
+Saint Lucia,Flood,7,6402,8
+Djibouti,Earthquake,10,7911,1
+Timor-Leste,Flood,3,5176,2
+Vanuatu,Storm,6,2588,9
+Mali,Storm,3,6009,1
+Germany,Drought,3,7538,4
+Albania,Drought,2,9185,6
+Montenegro,Flood,4,6308,2
+French Guiana,Earthquake,9,1969,3
+Japan,Storm,4,2663,2
+Norfolk Island,Earthquake,1,4226,5
+Latvia,Flood,8,1563,8
+Saint Pierre and Miquelon,Flood,4,9527,10
+Gambia,Earthquake,9,3331,9
+Austria,Drought,3,4430,5
+Russian Federation,Flood,5,8893,5
+New Zealand,Storm,4,3289,7
+Faroe Islands,Drought,2,4863,6
+Korea,Flood,7,6100,2
+Georgia,Drought,6,8531,1
+French Polynesia,Storm,9,7763,2
+Saint Lucia,Flood,5,2558,1
+Zimbabwe,Earthquake,4,2372,4
+Guinea-Bissau,Flood,7,5078,6
+Wallis and Futuna,Earthquake,6,8211,6
+Tonga,Drought,4,1909,7
+Rwanda,Earthquake,8,2229,10
+Djibouti,Earthquake,9,8592,3
+Saudi Arabia,Flood,9,7781,10
+Myanmar,Flood,4,9670,6
+Guinea,Storm,8,6572,8
+Pakistan,Drought,9,9944,6
+San Marino,Earthquake,6,6250,10
+Gibraltar,Drought,8,1027,9
+Armenia,Storm,3,1392,2
+Colombia,Drought,8,4819,6
+United States Minor Outlying Islands,Drought,9,6327,9
+Spain,Flood,1,6683,10
+Somalia,Drought,8,1215,2
+Russian Federation,Storm,5,4230,5
+Guadeloupe,Earthquake,9,8922,1
+Guam,Drought,5,6729,3
+Trinidad and Tobago,Storm,5,5980,1
+Malawi,Flood,1,5746,10
+Korea,Earthquake,5,9255,8
+Reunion,Storm,9,4556,10
+Saint Pierre and Miquelon,Drought,1,3248,4
+Guinea,Earthquake,1,5215,9
+Seychelles,Flood,5,3362,8
+Hong Kong,Drought,8,4469,8
+Tokelau,Drought,4,8692,9
+Puerto Rico,Drought,8,3638,2
+Nigeria,Flood,8,7504,10
+Kenya,Earthquake,3,1077,9
+Uzbekistan,Storm,3,8817,10
+Malawi,Drought,2,5796,1
+Malta,Drought,8,1588,8
+British Virgin Islands,Drought,1,7799,8
+Suriname,Drought,8,5768,7
+Turkey,Earthquake,6,9684,6
+Falkland Islands (Malvinas),Storm,10,6374,9
+Egypt,Flood,8,6106,6
+United States of America,Flood,2,7515,5
+Cyprus,Earthquake,2,3319,1
+Greenland,Drought,3,5885,10
+Jersey,Earthquake,5,3198,2
+Ghana,Earthquake,2,1762,9
+Suriname,Earthquake,5,2883,1
+Honduras,Storm,6,1859,4
+Bulgaria,Storm,9,9291,8
+Bhutan,Earthquake,3,7558,4
+Togo,Earthquake,2,6876,8
+Japan,Storm,7,6878,6
+Sao Tome and Principe,Earthquake,4,1886,4
+Zimbabwe,Storm,1,6520,9
+Thailand,Storm,4,2355,4
+Korea,Flood,10,7457,2
+Bouvet Island (Bouvetoya),Flood,6,8866,4
+Bangladesh,Storm,2,1968,4
+Kuwait,Earthquake,4,1232,1
+Finland,Earthquake,8,8954,8
+North Macedonia,Earthquake,2,4372,3
+Mozambique,Flood,2,4298,1
+Tunisia,Drought,8,8858,7
+Puerto Rico,Storm,10,1043,7
+Italy,Drought,5,9769,8
+Dominican Republic,Drought,3,3169,8
+Estonia,Earthquake,1,4244,2
+Kenya,Drought,4,3825,3
+China,Earthquake,3,1515,9
+Saint Pierre and Miquelon,Drought,5,6154,6
+Palestinian Territory,Storm,1,4550,2
+Egypt,Flood,1,7657,8
+Saint Kitts and Nevis,Flood,10,6414,4
+Kuwait,Earthquake,4,7096,2
+Paraguay,Drought,9,3910,7
+North Macedonia,Drought,4,9333,9
+Slovakia (Slovak Republic),Drought,1,6974,3
+Ukraine,Drought,5,9997,8
+Bermuda,Drought,5,4418,9
+Puerto Rico,Storm,1,9274,10
+Norfolk Island,Flood,3,5054,7
+Austria,Earthquake,6,5614,10
+Togo,Drought,6,8595,9
+Croatia,Flood,9,3561,6
+Andorra,Storm,3,4529,1
+Nauru,Storm,8,5272,1
+Barbados,Storm,4,7991,10
+Yemen,Storm,7,9446,5
+Bolivia,Drought,2,6531,7
+Cyprus,Flood,1,1931,1
+Congo,Earthquake,3,9205,10
+San Marino,Drought,3,5533,5
+Brunei Darussalam,Storm,6,8494,3
+Madagascar,Storm,6,9970,3
+Papua New Guinea,Storm,2,5217,5
+Equatorial Guinea,Storm,3,2323,8
+Svalbard & Jan Mayen Islands,Drought,9,5264,2
+Djibouti,Flood,8,2268,10
+Bolivia,Earthquake,4,5879,7
+North Macedonia,Flood,8,9192,5
+Svalbard & Jan Mayen Islands,Flood,4,6411,7
+Haiti,Earthquake,2,6729,9
+Central African Republic,Storm,1,4470,7
+Costa Rica,Storm,2,2798,10
+Comoros,Drought,1,9792,3
+Malawi,Drought,9,6123,8
+El Salvador,Flood,9,2348,5
+Belgium,Earthquake,6,2125,1
+Central African Republic,Earthquake,4,8007,2
+Hong Kong,Drought,4,2947,7
+Suriname,Storm,2,5722,5
+Hungary,Drought,1,7723,1
+Haiti,Flood,7,8970,1
+France,Drought,2,9617,3
+Algeria,Storm,7,5877,8
+Colombia,Earthquake,10,9063,7
+Bermuda,Flood,6,1362,7
+Angola,Storm,8,7824,8
+Mongolia,Flood,1,8661,8
+Cyprus,Earthquake,2,7950,1
+Kyrgyz Republic,Drought,5,5419,10
+Venezuela,Drought,10,5751,5
+Guyana,Earthquake,6,8652,2
+Martinique,Drought,2,1746,5
+Albania,Drought,7,4762,10
+Dominica,Flood,6,7188,6
+Paraguay,Drought,5,9532,10
+Maldives,Drought,5,1564,1
+Maldives,Earthquake,5,2945,7
+Egypt,Storm,8,5268,5
+Palestinian Territory,Earthquake,3,5177,5
+French Polynesia,Earthquake,3,9837,2
+Lithuania,Earthquake,7,1711,8
+Bhutan,Earthquake,6,6956,1
+Mexico,Storm,4,8775,2
+Lao People's Democratic Republic,Earthquake,1,1106,3
+Guam,Flood,9,1754,9
+Bahrain,Drought,9,2627,8
+Turkey,Flood,2,8659,10
+Iraq,Drought,9,1937,9
+Palestinian Territory,Storm,8,5509,1
+Georgia,Storm,6,5082,1
+Nicaragua,Earthquake,8,6484,1
+Kenya,Storm,10,5150,3
+Puerto Rico,Drought,5,8193,7
+United States Minor Outlying Islands,Storm,1,9721,9
+Netherlands,Flood,8,3479,4
+Serbia,Drought,3,4134,8
+India,Storm,4,9030,4
+Trinidad and Tobago,Storm,10,5094,4
+Kazakhstan,Storm,6,8120,6
+Morocco,Drought,5,7309,6
+Saint Martin,Earthquake,1,2289,5
+Lesotho,Storm,5,5748,9
+Andorra,Storm,6,2397,10
+Grenada,Flood,9,2825,3
+Ghana,Earthquake,2,1702,9
+Austria,Storm,5,7660,6
+Micronesia,Storm,9,3885,8
+Iraq,Earthquake,1,5733,6
+Cape Verde,Earthquake,2,6196,5
+Nepal,Drought,2,1681,5
+Congo,Drought,9,8936,8
+Pitcairn Islands,Storm,10,2769,9
+Austria,Flood,5,8521,9
+Mexico,Drought,10,3737,6
+Libyan Arab Jamahiriya,Drought,1,7555,7
+Maldives,Storm,4,8462,7
+Cuba,Flood,1,3155,4
+Aruba,Earthquake,8,5723,7
+Russian Federation,Flood,1,9170,1
+Georgia,Storm,9,5550,6
+Afghanistan,Flood,2,3982,7
+United States Minor Outlying Islands,Storm,3,7257,10
+Iraq,Storm,9,5455,6
+Finland,Drought,6,1040,5
+Niue,Storm,9,5190,4
+Marshall Islands,Flood,3,8332,1
+Turkmenistan,Flood,2,2947,6
+Indonesia,Drought,4,1696,2
+British Virgin Islands,Storm,6,8295,6
+Nepal,Flood,1,2311,2
+Swaziland,Earthquake,3,3864,2
+Japan,Drought,6,8147,9
+Falkland Islands (Malvinas),Storm,9,5483,8
+British Indian Ocean Territory (Chagos Archipelago),Earthquake,7,5599,10
+South Georgia and the South Sandwich Islands,Flood,3,2703,4
+Montserrat,Earthquake,8,6132,6
+Lao People's Democratic Republic,Earthquake,8,4531,3
+Bhutan,Drought,2,6752,7
+Namibia,Earthquake,9,5466,4
+Brazil,Earthquake,5,6039,9
+Tunisia,Storm,10,5409,5
+New Zealand,Earthquake,4,3197,9
+Iraq,Storm,4,1524,1
+Northern Mariana Islands,Flood,3,7127,9
+Haiti,Drought,10,1657,5
+Equatorial Guinea,Earthquake,1,7567,1
+American Samoa,Earthquake,5,9095,6
+Dominica,Storm,7,6789,6
+Angola,Storm,5,7583,3
+Netherlands Antilles,Drought,4,3497,5
+Western Sahara,Earthquake,3,9983,9
+Kuwait,Flood,4,6005,9
+Eritrea,Drought,2,1136,5
+Senegal,Earthquake,2,3258,2
+Tanzania,Flood,3,9603,9
+French Guiana,Earthquake,8,1419,9
+Mauritania,Flood,3,7494,9
+Nauru,Earthquake,8,1972,4
+Senegal,Storm,1,3349,4
+Monaco,Flood,2,4920,3
+Costa Rica,Storm,9,8319,10
+French Guiana,Earthquake,1,3814,6
+Congo,Flood,6,8410,8
+Antigua and Barbuda,Storm,3,1746,6
+Uruguay,Flood,9,1968,9
+Romania,Flood,1,9183,8
+Vanuatu,Flood,5,3512,10
+San Marino,Drought,1,6066,1
+Belarus,Storm,4,2935,3
+Peru,Flood,9,9678,8
+Barbados,Flood,2,7013,4
+Tanzania,Storm,7,5952,6
+Liechtenstein,Flood,5,6871,2
+Sri Lanka,Flood,7,3880,6
+Gabon,Drought,10,8555,2
+Uruguay,Earthquake,7,5058,2
+Martinique,Drought,5,3964,3
+Ukraine,Storm,8,6103,5
+Saint Martin,Flood,3,3494,4
+Syrian Arab Republic,Drought,10,4096,2
+Sierra Leone,Drought,9,7127,10
+Kazakhstan,Flood,1,1297,2
+Papua New Guinea,Storm,9,7870,3
+Finland,Earthquake,7,7094,9
+Bosnia and Herzegovina,Storm,3,9002,2
+North Macedonia,Flood,7,5331,8
+Singapore,Flood,10,6144,9
+Greece,Earthquake,6,4668,3
+Qatar,Earthquake,4,6795,10
+Sri Lanka,Flood,8,4502,7
+New Caledonia,Storm,9,5640,6
+United States of America,Earthquake,4,6674,2
+Switzerland,Flood,9,1860,10
+Pitcairn Islands,Earthquake,9,7181,7
+Malaysia,Storm,10,1228,10
+Saint Lucia,Flood,10,2079,3
+Saint Martin,Storm,5,6994,6
+Turkmenistan,Drought,5,1355,7
+Bolivia,Earthquake,2,8233,2
+Austria,Earthquake,1,6349,6
+Vietnam,Flood,8,3403,9
+Syrian Arab Republic,Flood,7,8522,5
+Guadeloupe,Drought,3,1091,7
+Guinea,Flood,2,9689,6
+Cuba,Earthquake,1,3299,7
+Turkmenistan,Storm,7,5970,1
+Pakistan,Flood,2,7660,3
+Paraguay,Drought,7,1902,6
+Reunion,Storm,8,8427,7
+Norway,Earthquake,2,3727,3
+Germany,Flood,6,8268,10
+Svalbard & Jan Mayen Islands,Drought,3,7555,2
+Madagascar,Flood,1,1300,5
+French Southern Territories,Earthquake,3,7400,9
+Guyana,Flood,7,3781,9
+Samoa,Earthquake,7,1846,4
+Lebanon,Drought,4,2152,8
+Svalbard & Jan Mayen Islands,Drought,6,4328,3
+Samoa,Earthquake,5,7240,10
+New Caledonia,Drought,8,2908,2
+United Arab Emirates,Flood,4,7173,2
+Colombia,Drought,3,8557,2
+Saint Helena,Storm,7,3117,7
+New Caledonia,Earthquake,10,5793,4
+Holy See (Vatican City State),Flood,2,5714,7
+Guernsey,Drought,6,9208,6
+Sao Tome and Principe,Flood,2,2929,5
+Wallis and Futuna,Storm,10,7874,3
+Tajikistan,Drought,4,6351,8
+Zimbabwe,Drought,2,2782,9
+Faroe Islands,Earthquake,1,8600,9
+Luxembourg,Drought,8,7100,1
+Benin,Earthquake,4,7255,8
+Sierra Leone,Drought,10,6708,9
+El Salvador,Flood,7,2560,9
+Austria,Storm,5,4845,8
+United States Virgin Islands,Storm,5,1076,5
+Norway,Drought,4,4627,7
+Anguilla,Flood,6,4349,10
+Lao People's Democratic Republic,Earthquake,5,8652,7
+Slovenia,Storm,5,8665,9
+Canada,Storm,10,7654,4
+Zimbabwe,Drought,1,7508,8
+Netherlands Antilles,Flood,1,2548,9
+Italy,Drought,10,9837,5
+Liberia,Flood,6,2660,3
+Swaziland,Drought,1,7741,4
+Christmas Island,Storm,7,3863,1
+Djibouti,Flood,4,3042,5
+South Georgia and the South Sandwich Islands,Flood,9,4846,9
+Angola,Drought,10,1068,1
+French Polynesia,Drought,7,6321,5
+Lithuania,Flood,3,9096,3
+Isle of Man,Earthquake,2,7090,7
+Northern Mariana Islands,Storm,8,5571,3
+Italy,Earthquake,8,2296,3
+Guyana,Earthquake,7,2762,3
+United States Minor Outlying Islands,Earthquake,8,8318,8
+Slovakia (Slovak Republic),Drought,6,6245,10
+Guernsey,Flood,10,2052,7
+Guam,Earthquake,9,3673,10
+Cayman Islands,Earthquake,9,9142,7
+Benin,Storm,2,8013,1
+Faroe Islands,Storm,5,2157,3
+Guinea,Earthquake,7,2602,2
+Gambia,Storm,5,6539,5
+Cote d'Ivoire,Earthquake,3,9907,7
+Haiti,Storm,8,3637,4
+Korea,Flood,9,7115,9
+Myanmar,Drought,6,8647,8
+Denmark,Flood,8,6598,6
+Thailand,Earthquake,10,8429,10
+Turkmenistan,Earthquake,10,7235,1
+Brunei Darussalam,Earthquake,7,5584,3
+Peru,Earthquake,10,4226,2
+Serbia,Flood,10,8452,1
+Burkina Faso,Drought,4,1999,6
+Turks and Caicos Islands,Earthquake,10,3471,10
+Honduras,Flood,4,1105,8
+Grenada,Storm,8,7831,4
+El Salvador,Earthquake,3,5473,5
+Bermuda,Storm,9,6558,5
+Bahrain,Earthquake,2,3432,8
+French Guiana,Earthquake,4,9459,2
+Botswana,Flood,3,9371,8
+Belgium,Drought,2,1611,8
+Bolivia,Flood,8,1964,9
+Uruguay,Flood,9,8962,10
+Andorra,Storm,8,7641,6
+Greece,Flood,6,9924,7
+Palestinian Territory,Flood,8,6008,2
+Belarus,Flood,8,2026,1
+United States Virgin Islands,Drought,2,3273,1
+Angola,Storm,6,3628,1
+Palestinian Territory,Earthquake,7,2886,3
+Philippines,Earthquake,6,8428,4
+Madagascar,Storm,9,3383,2
+Aruba,Storm,9,6247,7
+Suriname,Flood,2,5373,5
+British Indian Ocean Territory (Chagos Archipelago),Storm,6,4961,1
+Norway,Flood,3,3050,9
+Reunion,Flood,10,1701,9
+Paraguay,Earthquake,6,7318,7
+Syrian Arab Republic,Storm,2,6230,5
+Haiti,Earthquake,9,3336,6
+Trinidad and Tobago,Storm,2,9423,6
+Ghana,Earthquake,8,4773,8
+Saint Lucia,Flood,9,9577,8
+Bhutan,Flood,6,4929,10
+Liechtenstein,Earthquake,1,1264,4
+Uganda,Flood,2,6679,6
+Sudan,Drought,10,2024,6
+France,Earthquake,6,1163,5
+Iran,Earthquake,2,8194,10
+Haiti,Storm,5,6310,1
+Sao Tome and Principe,Flood,10,6999,10
+Jordan,Drought,9,3996,6
+Comoros,Storm,3,7815,7
+Isle of Man,Earthquake,9,4713,8
+Egypt,Drought,4,3307,1
+Sweden,Drought,4,1259,9
+Iran,Flood,8,6236,1
+Israel,Earthquake,5,9356,8
+Niue,Storm,9,7570,9
+Lithuania,Drought,4,6353,9
+Italy,Earthquake,4,3181,10
+Guinea-Bissau,Flood,2,9886,5
+Iran,Earthquake,8,4331,1
+Venezuela,Flood,6,1670,4
+Eritrea,Earthquake,6,2241,7
+Ireland,Storm,8,1652,9
+Mozambique,Earthquake,8,8684,4
+Peru,Storm,4,5300,5
+Ethiopia,Flood,3,5810,5
+Saint Kitts and Nevis,Drought,2,1427,5
+Croatia,Drought,3,5334,2
+Anguilla,Storm,10,3803,4
+Uzbekistan,Earthquake,6,9235,9
+Nigeria,Earthquake,9,1711,9
+Reunion,Earthquake,9,9755,4
+Poland,Drought,9,1674,3
+Saint Kitts and Nevis,Flood,3,9978,2
+Malta,Flood,3,1002,5
+Somalia,Flood,9,8846,8
+Heard Island and McDonald Islands,Drought,5,4340,7
+Brazil,Flood,2,2600,9
+Tajikistan,Storm,2,5990,1
+Malaysia,Storm,1,1764,2
+Sudan,Drought,3,2795,2
+Brazil,Earthquake,2,3010,4
+Kazakhstan,Flood,8,5227,8
+Philippines,Flood,1,4718,9
+Malta,Storm,3,7548,5
+Korea,Drought,10,5922,7
+Jordan,Earthquake,4,1981,3
+Saint Barthelemy,Flood,5,9367,7
+Cote d'Ivoire,Drought,10,4764,10
+Thailand,Drought,4,4642,1
+Philippines,Flood,1,5206,1
+Somalia,Earthquake,1,6714,3
+Western Sahara,Flood,7,8658,10
+Haiti,Drought,5,5165,10
+Mozambique,Storm,4,8257,1
+Czech Republic,Storm,4,1493,6
+Greenland,Drought,2,6400,1
+Slovenia,Drought,1,5452,5
+Belgium,Earthquake,8,1889,8
+Denmark,Drought,9,6197,8
+Canada,Earthquake,7,2137,2
+Congo,Drought,3,3609,9
+Colombia,Earthquake,9,9323,7
+Greece,Flood,9,6024,6
+Bahamas,Storm,10,4187,2
+Bhutan,Earthquake,7,2713,6
+United Arab Emirates,Storm,5,4811,5
+Portugal,Flood,2,1075,3
+Panama,Earthquake,9,4089,7
+Guyana,Flood,6,1068,2
+Qatar,Earthquake,5,7447,2
+Brunei Darussalam,Storm,4,1330,8
+Norfolk Island,Flood,6,7566,10
+Saint Helena,Drought,8,7772,6
+Guyana,Flood,7,4317,5
+Lao People's Democratic Republic,Earthquake,7,1870,2
+Zimbabwe,Storm,10,2572,6
+Bolivia,Drought,4,6597,8
+Madagascar,Drought,4,9739,9
+Singapore,Flood,3,4527,3
+Congo,Flood,8,1960,5
+Saint Pierre and Miquelon,Drought,4,2032,10
+Niue,Flood,10,4011,8
+Israel,Storm,10,4068,3
+Christmas Island,Drought,6,4463,9
+Tunisia,Drought,10,8629,3
+Denmark,Flood,9,1082,2
+Malta,Flood,4,4843,9
+Yemen,Earthquake,9,8432,8
+Tunisia,Flood,6,9239,2
+Montenegro,Drought,10,2795,4
+Bahrain,Drought,1,5396,6
+Slovakia (Slovak Republic),Earthquake,8,3123,9
+Hong Kong,Earthquake,1,7449,2
+Bangladesh,Drought,2,5815,4
+Tokelau,Earthquake,7,4174,10
+Antigua and Barbuda,Drought,7,5670,2
+Vietnam,Flood,5,8651,3
+Guadeloupe,Drought,6,7482,8
+Kenya,Earthquake,8,4390,6
+Burkina Faso,Flood,7,2397,9
+Seychelles,Drought,1,3467,6
+Mozambique,Drought,2,1924,4
+Cayman Islands,Earthquake,7,6051,3
+Puerto Rico,Earthquake,7,7369,6
+Qatar,Storm,5,6209,5
+Honduras,Drought,3,1458,9
+Portugal,Flood,3,2537,2
+Gambia,Earthquake,5,8573,1
+Ghana,Flood,5,6017,9
+Mauritania,Storm,4,4722,9
+Liechtenstein,Earthquake,2,3680,5
+Congo,Flood,1,2449,1
+Cook Islands,Drought,7,3258,5
+Malaysia,Flood,7,6332,3
+Qatar,Drought,1,2671,8
+Russian Federation,Flood,10,9504,5
+Turkey,Drought,9,9533,5
+Kenya,Drought,10,6550,6
+Yemen,Flood,6,6331,7
+Saint Vincent and the Grenadines,Earthquake,3,4462,4
+Turkey,Drought,10,2416,8
